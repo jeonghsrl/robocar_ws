@@ -1,0 +1,27 @@
+running develop
+running egg_info
+creating real_robocar_rviz.egg-info
+writing real_robocar_rviz.egg-info/PKG-INFO
+writing dependency_links to real_robocar_rviz.egg-info/dependency_links.txt
+writing entry points to real_robocar_rviz.egg-info/entry_points.txt
+writing requirements to real_robocar_rviz.egg-info/requires.txt
+writing top-level names to real_robocar_rviz.egg-info/top_level.txt
+writing manifest file 'real_robocar_rviz.egg-info/SOURCES.txt'
+reading manifest file 'real_robocar_rviz.egg-info/SOURCES.txt'
+writing manifest file 'real_robocar_rviz.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/jeong/robocar_ws/src/real_robocar_rviz/install/real_robocar_rviz/lib/python3.8/site-packages/site.py
+Creating /home/jeong/robocar_ws/src/real_robocar_rviz/install/real_robocar_rviz/lib/python3.8/site-packages/real-robocar-rviz.egg-link (link to .)
+Installing real_state_pub script to /home/jeong/robocar_ws/src/real_robocar_rviz/install/real_robocar_rviz/lib/real_robocar_rviz
+
+Installed /home/jeong/robocar_ws/src/real_robocar_rviz/build/real_robocar_rviz
+running install_data
+creating /home/jeong/robocar_ws/src/real_robocar_rviz/install/real_robocar_rviz/share/ament_index
+creating /home/jeong/robocar_ws/src/real_robocar_rviz/install/real_robocar_rviz/share/ament_index/resource_index
+creating /home/jeong/robocar_ws/src/real_robocar_rviz/install/real_robocar_rviz/share/ament_index/resource_index/packages
+copying resource/real_robocar_rviz -> /home/jeong/robocar_ws/src/real_robocar_rviz/install/real_robocar_rviz/share/ament_index/resource_index/packages
+copying package.xml -> /home/jeong/robocar_ws/src/real_robocar_rviz/install/real_robocar_rviz/share/real_robocar_rviz
+copying launch/display.launch.py -> /home/jeong/robocar_ws/src/real_robocar_rviz/install/real_robocar_rviz/share/real_robocar_rviz
+copying launch/demo.launch.py -> /home/jeong/robocar_ws/src/real_robocar_rviz/install/real_robocar_rviz/share/real_robocar_rviz
+copying urdf/robocarNew.rviz -> /home/jeong/robocar_ws/src/real_robocar_rviz/install/real_robocar_rviz/share/real_robocar_rviz
+copying urdf/robocar.urdf -> /home/jeong/robocar_ws/src/real_robocar_rviz/install/real_robocar_rviz/share/real_robocar_rviz

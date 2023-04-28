@@ -1,0 +1,3 @@
+[console_scripts]
+real_state_pub = real_robocar_rviz.robocar_state_pub:main
+

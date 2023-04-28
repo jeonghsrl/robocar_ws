@@ -1,0 +1,29 @@
+[0.653s] Invoking command in '/home/jeong/robocar_ws/src/real_robocar_rviz/build/real_robocar_rviz': PYTHONPATH=/home/jeong/robocar_ws/src/real_robocar_rviz/install/real_robocar_rviz/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --prefix /home/jeong/robocar_ws/src/real_robocar_rviz/install/real_robocar_rviz --editable --build-directory /home/jeong/robocar_ws/src/real_robocar_rviz/build/real_robocar_rviz/build --no-deps install_data --install-dir /home/jeong/robocar_ws/src/real_robocar_rviz/install/real_robocar_rviz
+[0.895s] running develop
+[1.043s] running egg_info
+[1.043s] creating real_robocar_rviz.egg-info
+[1.044s] writing real_robocar_rviz.egg-info/PKG-INFO
+[1.044s] writing dependency_links to real_robocar_rviz.egg-info/dependency_links.txt
+[1.044s] writing entry points to real_robocar_rviz.egg-info/entry_points.txt
+[1.045s] writing requirements to real_robocar_rviz.egg-info/requires.txt
+[1.045s] writing top-level names to real_robocar_rviz.egg-info/top_level.txt
+[1.047s] writing manifest file 'real_robocar_rviz.egg-info/SOURCES.txt'
+[1.089s] reading manifest file 'real_robocar_rviz.egg-info/SOURCES.txt'
+[1.090s] writing manifest file 'real_robocar_rviz.egg-info/SOURCES.txt'
+[1.124s] running build_ext
+[1.125s] Creating /home/jeong/robocar_ws/src/real_robocar_rviz/install/real_robocar_rviz/lib/python3.8/site-packages/site.py
+[1.127s] Creating /home/jeong/robocar_ws/src/real_robocar_rviz/install/real_robocar_rviz/lib/python3.8/site-packages/real-robocar-rviz.egg-link (link to .)
+[1.127s] Installing real_state_pub script to /home/jeong/robocar_ws/src/real_robocar_rviz/install/real_robocar_rviz/lib/real_robocar_rviz
+[1.128s] 
+[1.128s] Installed /home/jeong/robocar_ws/src/real_robocar_rviz/build/real_robocar_rviz
+[1.128s] running install_data
+[1.128s] creating /home/jeong/robocar_ws/src/real_robocar_rviz/install/real_robocar_rviz/share/ament_index
+[1.128s] creating /home/jeong/robocar_ws/src/real_robocar_rviz/install/real_robocar_rviz/share/ament_index/resource_index
+[1.128s] creating /home/jeong/robocar_ws/src/real_robocar_rviz/install/real_robocar_rviz/share/ament_index/resource_index/packages
+[1.129s] copying resource/real_robocar_rviz -> /home/jeong/robocar_ws/src/real_robocar_rviz/install/real_robocar_rviz/share/ament_index/resource_index/packages
+[1.129s] copying package.xml -> /home/jeong/robocar_ws/src/real_robocar_rviz/install/real_robocar_rviz/share/real_robocar_rviz
+[1.129s] copying launch/display.launch.py -> /home/jeong/robocar_ws/src/real_robocar_rviz/install/real_robocar_rviz/share/real_robocar_rviz
+[1.129s] copying launch/demo.launch.py -> /home/jeong/robocar_ws/src/real_robocar_rviz/install/real_robocar_rviz/share/real_robocar_rviz
+[1.129s] copying urdf/robocarNew.rviz -> /home/jeong/robocar_ws/src/real_robocar_rviz/install/real_robocar_rviz/share/real_robocar_rviz
+[1.129s] copying urdf/robocar.urdf -> /home/jeong/robocar_ws/src/real_robocar_rviz/install/real_robocar_rviz/share/real_robocar_rviz
+[1.159s] Invoked command in '/home/jeong/robocar_ws/src/real_robocar_rviz/build/real_robocar_rviz' returned '0': PYTHONPATH=/home/jeong/robocar_ws/src/real_robocar_rviz/install/real_robocar_rviz/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --prefix /home/jeong/robocar_ws/src/real_robocar_rviz/install/real_robocar_rviz --editable --build-directory /home/jeong/robocar_ws/src/real_robocar_rviz/build/real_robocar_rviz/build --no-deps install_data --install-dir /home/jeong/robocar_ws/src/real_robocar_rviz/install/real_robocar_rviz
