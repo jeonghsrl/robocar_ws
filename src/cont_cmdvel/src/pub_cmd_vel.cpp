@@ -32,7 +32,7 @@ private:
   {
    // 配信するTwist messageを用意  
     auto message = geometry_msgs::msg::Twist();
-    message.linear.x = 0.3;          //前進速度
+    message.linear.x = 0.3;          //前進速度 走る
     message.angular.z = 0.;         //旋回速度
     //コンソールに出力
     RCLCPP_INFO(this->get_logger(), "Publishing: vd='%f' dphid='%f'", message.linear.x, message.angular.z);
